@@ -36517,12 +36517,12 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-text-1 {
   font-weight: 700;
+  font-family: "Courier New", monospace;
   margin: -58px 852px 28px 77px;
 }
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
     margin-right: 729px;
-    font-family: "Courier New", monospace;
   }
 }
 @media (max-width: 991px) {
