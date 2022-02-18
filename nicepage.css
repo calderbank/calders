@@ -36522,17 +36522,24 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
-    margin-right: 729px;
+    width: auto;
+    margin-right: 349px;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-text-1 {
-    margin-right: 509px;
+    margin-right: 309px;
   }
 }
 @media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 160px;
+  }
+
   .u-header .u-text-1 {
-    margin-right: 329px;
+    margin-top: -59px;
+    margin-right: 174px;
+    margin-bottom: 60px;
   }
 }
 @media (max-width: 575px) {
